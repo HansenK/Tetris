@@ -1,0 +1,21 @@
+body{
+    margin: 5px auto;
+    background-color: rgb(133, 199, 177);
+    align-items: center;
+}
+
+#tela{
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 360px;
+    height: 600px;
+    margin: auto;
+    background-color: black;
+    border: 10px double rgb(13, 74, 99);
+    position: absolute;
+}
+.blocos{
+    position: absolute;
+}
