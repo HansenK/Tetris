@@ -13,7 +13,7 @@
 
 2.1 - Feito
 
-2.2 - 
+2.2 - Em andamento
 
 **3 ETAPA:**
 
