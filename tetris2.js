@@ -5,7 +5,7 @@ var quantb = 0, quantt=0;
 var tamy,tamx, posx=0;;
 var timer,teste=0;;
 
-function criabloco(nome, cors)
+function criabloco(nome, cors) // cria 1 bloco de 30X30px (contando com a borda)
 {
     var bloco = document.createElement("div");
     bloco.setAttribute('id', nome);
@@ -18,7 +18,7 @@ function criabloco(nome, cors)
     sqr.style.backgroundColor = cors;
 }
 
-function criapeca()
+function criapeca() // cria uma peça de tamanho aleátorio de até 4X4
 {
     var a=0,b=0;
     var cor = cores[Math.floor((Math.random() * 7) + 0)];
