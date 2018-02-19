@@ -5,9 +5,9 @@
 
 1.1 - Feito
 
-1.2 - Em processo
+1.2 - Feito
 
-1.3 - 
+1.3 - Feito
 
 **2 ETAPA:**
 
