@@ -13,11 +13,11 @@
 
 2.1 - Feito
 
-2.2 - Em andamento
+2.2 - Feito
 
 **3 ETAPA:**
 
-3.1 - 
+3.1 - Em andamento
 
 **4 ETAPA:**
 
