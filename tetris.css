@@ -19,3 +19,8 @@ body{
 .blocos{
     position: absolute;
 }
+button{
+    font-size: 50px;
+    background-color: darkred;
+    color: white;
+}
