@@ -1,0 +1,36 @@
+body{
+    margin: 5px auto;
+    background-color: rgb(133, 199, 177);
+    align-items: center;
+}
+
+#tela{
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 360px;
+    height: 600px;
+    margin: auto;
+    background-color: black;
+    border: 10px double rgb(13, 74, 99);
+    position: absolute;
+}
+.blocos{
+    position: absolute;
+}
+button{
+    margin: 270px 87.5px;
+    font-size: 50px;
+    background-color: rgb(13, 74, 99);
+    color: white;
+}
+#score{
+    color: black;
+    font-size: 20px;
+}
+#tela2{
+    color: black;
+    font-size: 20px;
+    margin: 0px 0px 0px 170.5px;
+}
